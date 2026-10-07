@@ -1,4 +1,4 @@
-#v1, a college learning project. A professional rebuild with tests, concurrency control and CI is in progress at car-rental-api.
+> v1, a college learning project. A professional rebuild with tests, concurrency control and CI is in progress at car-rental-api.
 
 # 🚗 Car Rental System
 

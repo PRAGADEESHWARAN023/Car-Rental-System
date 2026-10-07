@@ -1,3 +1,5 @@
+#v1, a college learning project. A professional rebuild with tests, concurrency control and CI is in progress at car-rental-api.
+
 # 🚗 Car Rental System
 
 A full-stack web application for managing car rentals, built with Django and Django REST Framework.
